@@ -56,7 +56,7 @@ public class MainWin extends JFrame {
 	private JTabbedPane onglets;
 	
 	public MainWin() throws Exception{
-		super("Bad 2.0");
+		super("Bad 2.0.1");
 		
 	
 		//Autres
